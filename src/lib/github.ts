@@ -95,12 +95,12 @@ export const FALLBACK_REPOS: GitHubRepo[] = [
 
 export const FALLBACK_GITHUB_STATS: GitHubStats = {
   username: "Abbas-ghazi9m",
-  publicRepos: 24,
-  followers: 86,
-  following: 42,
-  totalStars: 146,
-  contributionsThisYear: 842,
-  streakDays: 48,
+  publicRepos: 11,
+  followers: 6,
+  following: 8,
+  totalStars: 2,
+  contributionsThisYear: 120,
+  streakDays: 0,
   topLanguages: [
     { name: "Python", percentage: 38, color: "#3572A5" },
     { name: "TypeScript", percentage: 32, color: "#3178C6" },

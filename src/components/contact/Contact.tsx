@@ -58,7 +58,7 @@ export function Contact() {
       }
     } catch {
       setIsError(true);
-      setStatusMessage("Connection error. Please try emailing directly at contact.mohammadabbas@gmail.com.");
+      setStatusMessage("Connection error. Please try emailing directly at contact.abbasummah01@gmail.com.");
     } finally {
       setLoading(false);
     }
