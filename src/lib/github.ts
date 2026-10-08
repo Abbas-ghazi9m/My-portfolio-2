@@ -29,9 +29,9 @@ export const FALLBACK_REPOS: GitHubRepo[] = [
   {
     id: "trustx-verification",
     name: "trustx-verification",
-    fullName: "mohammadabbas/trustx-verification",
+    fullName: "Abbas-ghazi9m/trustx-verification",
     description: "Multimodal AI anomaly detection + EVM Merkle anchor for digital claims & certificate verification.",
-    url: "https://github.com/mohammadabbas/trustx-verification",
+    url: "https://github.com/Abbas-ghazi9m/trustx-verification",
     language: "Python",
     languageColor: "#3572A5",
     stars: 34,
@@ -42,9 +42,9 @@ export const FALLBACK_REPOS: GitHubRepo[] = [
   {
     id: "skillchain-credentials",
     name: "skillchain-credentials",
-    fullName: "mohammadabbas/skillchain-credentials",
+    fullName: "Abbas-ghazi9m/skillchain-credentials",
     description: "Decentralized verifiable student credential and skill passport system using Soulbound tokens & IPFS.",
-    url: "https://github.com/mohammadabbas/skillchain-credentials",
+    url: "https://github.com/Abbas-ghazi9m/skillchain-credentials",
     language: "TypeScript",
     languageColor: "#3178C6",
     stars: 28,
@@ -55,9 +55,9 @@ export const FALLBACK_REPOS: GitHubRepo[] = [
   {
     id: "imaanup-mobile",
     name: "imaanup-mobile",
-    fullName: "mohammadabbas/imaanup-mobile",
+    fullName: "Abbas-ghazi9m/imaanup-mobile",
     description: "Modern Islamic lifestyle app with habit streaks, audio-synced Quran, haptic Tasbeeh and offline-first cache.",
-    url: "https://github.com/mohammadabbas/imaanup-mobile",
+    url: "https://github.com/Abbas-ghazi9m/imaanup-mobile",
     language: "Dart",
     languageColor: "#00B4AB",
     stars: 42,
@@ -68,9 +68,9 @@ export const FALLBACK_REPOS: GitHubRepo[] = [
   {
     id: "herguard-iot-safety",
     name: "herguard-iot-safety",
-    fullName: "mohammadabbas/herguard-iot-safety",
+    fullName: "Abbas-ghazi9m/herguard-iot-safety",
     description: "Autonomous ESP32 hardware emergency distress beacon with GNSS satellite fix and cellular SMS telemetry.",
-    url: "https://github.com/mohammadabbas/herguard-iot-safety",
+    url: "https://github.com/Abbas-ghazi9m/herguard-iot-safety",
     language: "C++",
     languageColor: "#F34B7D",
     stars: 19,
@@ -81,9 +81,9 @@ export const FALLBACK_REPOS: GitHubRepo[] = [
   {
     id: "sih-ai-document-audit",
     name: "sih-ai-document-audit",
-    fullName: "mohammadabbas/sih-ai-document-audit",
+    fullName: "Abbas-ghazi9m/sih-ai-document-audit",
     description: "Smart India Hackathon project: Vision-LLM automated integrity verifier for government records.",
-    url: "https://github.com/mohammadabbas/sih-ai-document-audit",
+    url: "https://github.com/Abbas-ghazi9m/sih-ai-document-audit",
     language: "Python",
     languageColor: "#3572A5",
     stars: 23,
@@ -94,7 +94,7 @@ export const FALLBACK_REPOS: GitHubRepo[] = [
 ];
 
 export const FALLBACK_GITHUB_STATS: GitHubStats = {
-  username: "mohammadabbas",
+  username: "Abbas-ghazi9m",
   publicRepos: 24,
   followers: 86,
   following: 42,
@@ -120,7 +120,7 @@ export async function getGitHubData(): Promise<{
   message?: string;
 }> {
   const token = process.env.GITHUB_TOKEN;
-  const username = process.env.GITHUB_USERNAME || "mohammadabbas";
+  const username = process.env.GITHUB_USERNAME || "Abbas-ghazi9m";
 
   if (!token) {
     return {

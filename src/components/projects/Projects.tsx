@@ -70,7 +70,7 @@ export function Projects() {
           </div>
 
           <a
-            href="https://github.com/mohammadabbas"
+            href="https://github.com/Abbas-ghazi9m"
             target="_blank"
             rel="noopener noreferrer"
             className="group inline-flex items-center gap-2.5 rounded-xl border border-cyan-500/40 bg-cyan-500/10 px-6 py-3 font-mono text-xs font-bold uppercase tracking-wider text-cyan-300 hover:bg-cyan-500 hover:text-black transition-all"

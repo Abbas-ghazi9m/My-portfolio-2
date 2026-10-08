@@ -87,7 +87,7 @@ export function ResumeSection() {
                 AI Engineer • Full-Stack Developer • Builder
               </p>
               <p className="text-xs text-neutral-400 mt-2">
-                Computer Science & Engineering Student • India • contact.mohammadabbas@gmail.com
+                Computer Science & Engineering Student • India • GitHub: github.com/Abbas-ghazi9m • LinkedIn: linkedin.com/in/abbasmohammad01
               </p>
             </div>
 

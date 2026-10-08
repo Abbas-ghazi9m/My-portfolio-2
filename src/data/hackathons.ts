@@ -35,7 +35,7 @@ export const HACKATHONS_DATA: HackathonEntry[] = [
     description:
       "Engineered an automated document integrity pipeline combining OCR visual extraction and LLM semantic consistency checking, reducing manual verification time by 85%.",
     links: {
-      repo: "https://github.com/mohammadabbas",
+      repo: "https://github.com/Abbas-ghazi9m",
     },
   },
   {
@@ -51,7 +51,7 @@ export const HACKATHONS_DATA: HackathonEntry[] = [
     description:
       "Architected the initial MVP during a 36-hour sprint. Created zero-knowledge receipt verification hooks and connected Next.js frontend with EVM testnet.",
     links: {
-      repo: "https://github.com/mohammadabbas/trustx-verification",
+      repo: "https://github.com/Abbas-ghazi9m/trustx-verification",
     },
   },
   {
@@ -67,7 +67,7 @@ export const HACKATHONS_DATA: HackathonEntry[] = [
     description:
       "Implemented prototype smart contracts for non-transferable achievement badges and built an interactive student skill radar showcase.",
     links: {
-      repo: "https://github.com/mohammadabbas/skillchain-credentials",
+      repo: "https://github.com/Abbas-ghazi9m/skillchain-credentials",
     },
   },
   {
@@ -83,7 +83,7 @@ export const HACKATHONS_DATA: HackathonEntry[] = [
     description:
       "Prototyped a physical panic beacon integrating microswitch debouncing with autonomous satellite coordinate extraction and cellular SMS broadcast.",
     links: {
-      repo: "https://github.com/mohammadabbas/herguard-iot-safety",
+      repo: "https://github.com/Abbas-ghazi9m/herguard-iot-safety",
     },
   },
 ];

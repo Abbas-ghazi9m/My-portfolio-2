@@ -64,8 +64,8 @@ export const PROFILE_DATA: ProfileConfig = {
   },
   contact: {
     email: "contact.mohammadabbas@gmail.com",
-    github: "https://github.com/mohammadabbas",
-    linkedin: "https://linkedin.com/in/mohammadabbas",
+    github: "https://github.com/Abbas-ghazi9m",
+    linkedin: "https://www.linkedin.com/in/abbasmohammad01",
     twitter: "https://x.com/abbas_builder",
   },
   resumeUrl: "/resume.pdf",

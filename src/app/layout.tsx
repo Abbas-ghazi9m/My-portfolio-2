@@ -103,8 +103,8 @@ export default function RootLayout({
       "Python",
     ],
     sameAs: [
-      "https://github.com/mohammadabbas",
-      "https://linkedin.com/in/mohammadabbas",
+      "https://github.com/Abbas-ghazi9m",
+      "https://www.linkedin.com/in/abbasmohammad01",
     ],
   };
 
